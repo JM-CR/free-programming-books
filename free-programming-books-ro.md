@@ -4,7 +4,6 @@
 * [HTML](#hmtl)
 * [MySQL](#mysql)
 * [PHP](#php)
-* [Scratch](#scratch)
 
 
 ### Ajax
@@ -25,8 +24,3 @@
 ### PHP
 
 * [PHP](http://php.punctsivirgula.ro)
-
-
-### Scratch
-
-* [Informatica Creativa](http://scratched.gse.harvard.edu/resources/informatica-creativa-0)

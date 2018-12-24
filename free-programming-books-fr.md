@@ -37,7 +37,6 @@
 * [Ruby](#ruby)
 * [Sage](#sage)
 * [Scilab](#scilab)
-* [Scratch](#scratch)
 * [SPIP](#spip)
 * [SQL](#sql)
 * [Systèmes d'exploitation](#systemes-d-exploitation)
@@ -261,11 +260,6 @@
 ### Scilab
 
 * [Introduction à Scilab](http://forge.scilab.org/index.php/p/docintrotoscilab/downloads/) - Michaël Baudin, Artem Glebov, Jérome Briot
-
-
-### Scratch
-
-* [Informatique Créative](https://pixees.fr/programmation-creative-en-scratch/)
 
 
 ### SPIP

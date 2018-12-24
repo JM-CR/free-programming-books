@@ -18,7 +18,6 @@
   * [Flask](#flask)
 * [R](#r)
 * [Ruby](#ruby)
-* [Scratch](#scratch)
 * [Swift](#swift)
 
 
@@ -124,11 +123,6 @@
 ### Ruby
 
 * [루비 스타일 가이드](https://github.com/dalzony/ruby-style-guide/blob/master/README-koKR.md)
-
-
-### Scratch
-
-* [창의컴퓨팅(Creative Computing) 가이드북](http://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?barcode=480150000247P)
 
 
 ### Swift

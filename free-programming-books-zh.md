@@ -60,7 +60,6 @@
   * [Rust](#rust)
   * [Scala](#scala)
   * [Scheme](#scheme)
-  * [Scratch](#scratch)
   * [Shell](#shell)
   * [Swift](#swift)
   * [Vim](#vim)
@@ -661,11 +660,6 @@
 ### Scheme
 
 * [Scheme 入门教程](http://deathking.github.io/yast-cn/) (《Yet Another Scheme Tutorial》中文版)
-
-
-### Scratch
-
-* [创意计算课程指南](http://cccgchinese.strikingly.com)
 
 
 ### Shell

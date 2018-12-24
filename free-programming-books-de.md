@@ -23,7 +23,6 @@
   * [Django](#django)
 * [Ruby on Rails](#ruby-on-rails)
 * [Scilab](#scilab)
-* [Scratch](#scratch)
 * [UML](#uml)
 * [Unix](#unix)
 * [Visual Basic](#visual-basic)
@@ -175,11 +174,6 @@
 ### Scilab
 
 * [Einführung in Scilab/Xcos 5.4](http://www.buech-gifhorn.de/scilab/Einfuehrung.pdf) (PDF)
-
-
-### Scratch
-
-* [Kreative Informatik mit Scratch](http://eis.ph-noe.ac.at/kreativeinformatik/)
 
 
 ### UML
