@@ -156,7 +156,6 @@
 #### React.js
 
 * [React Native Podcast](https://devchat.tv/react-native-radio) (podcast)
-* [React Podcast](https://reactpodcast.simplecast.fm) (podcast)
 * [ReactCasts](https://www.youtube.com/c/reactcasts) (screencast)
 
 
