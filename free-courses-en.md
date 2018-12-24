@@ -95,6 +95,7 @@
 
 ### C Sharp
 
+* [Beginning Game Programming with C#](https://www.coursera.org/course/gameprogramming)
 * [Learn how to program: C#](https://www.learnhowtoprogram.com/c) - Epicodus Inc.
 
 
