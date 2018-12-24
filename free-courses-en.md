@@ -156,7 +156,6 @@
 
 ### Go
 
-* [A Tour Of Go](https://tour.golang.org/welcome/1)
 * [Go Tutorial](http://www.tutorialspoint.com/go/index.htm)
 
 
